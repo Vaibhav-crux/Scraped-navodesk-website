@@ -7,4 +7,4 @@ To scrape all data from it I used Scrapy which is a module of python.
 There are two output files
 
 (i) Extract_data_output.csv: The output file where Scrapped data of Extract_data_navodesk.py were saved.
-(ii) HTML CODES: In this folder all the HTML codes of products are present.
+(ii) HTML: In this folder all the HTML codes of products are present.
